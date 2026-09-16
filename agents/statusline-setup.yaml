@@ -1,7 +1,7 @@
 name: statusline-setup
 description: Use this agent to configure the user's Claude Code status line setting.
-model:
-  name: anthropic/claude-sonnet-4-6
+ai:
+  model: anthropic/claude-sonnet-4-6
   thinking_level: low
 tools:
   - read
